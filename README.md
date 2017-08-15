@@ -1,5 +1,7 @@
 # Semáforo Contador para Competencia de Robótica [*]
 
+En Firefox OK
+
 En Chrome no se pueden cargar por XHR los sonidos, por lo tanto la forma de ejecutarlo es:
 
 ```bash
